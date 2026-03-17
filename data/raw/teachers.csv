@@ -1,0 +1,201 @@
+teacher_id,name,subject,school_id
+TCH-001,"R. Zulaikha Sihombing, S.Gz",Ekonomi,SCH-040
+TCH-002,Mila Winarsih,Kimia,SCH-020
+TCH-003,Syahrini Mahendra,Sejarah,SCH-022
+TCH-004,Kacung Prayoga,Sejarah,SCH-009
+TCH-005,Vicky Dongoran,Fisika,SCH-048
+TCH-006,Lukita Lestari,Sejarah,SCH-006
+TCH-007,"drg. Cemani Mardhiyah, S.H.",Ekonomi,SCH-002
+TCH-008,Mala Oktaviani,Biologi,SCH-043
+TCH-009,Darmana Prasasta,Matematika,SCH-029
+TCH-010,"Baktianto Rajata, S.Gz",Kimia,SCH-046
+TCH-011,Raden Mustofa,Geografi,SCH-042
+TCH-012,dr. Aswani Nasyidah,Fisika,SCH-027
+TCH-013,Ir. Gilang Yolanda,Fisika,SCH-050
+TCH-014,Radika Mardhiyah,Fisika,SCH-044
+TCH-015,Dadi Waluyo,Ekonomi,SCH-042
+TCH-016,"Tgk. Shania Mangunsong, M.Ak",Ekonomi,SCH-049
+TCH-017,R.A. Oni Ramadan,Biologi,SCH-039
+TCH-018,Mala Nashiruddin,Kimia,SCH-010
+TCH-019,Sidiq Haryanti,Kimia,SCH-035
+TCH-020,Suci Nuraini,Kimia,SCH-039
+TCH-021,"Puti Yuni Palastri, M.Kom.",Fisika,SCH-034
+TCH-022,Ir. Putri Najmudin,Ekonomi,SCH-013
+TCH-023,"Hasta Prabowo, S.Pd",Kimia,SCH-047
+TCH-024,Vera Prasetya,Ekonomi,SCH-050
+TCH-025,Baktiono Wulandari,Biologi,SCH-022
+TCH-026,Padma Dabukke,Sejarah,SCH-008
+TCH-027,Murti Zulaika,Geografi,SCH-025
+TCH-028,Kasiyah Hutasoit,Biologi,SCH-030
+TCH-029,Sabrina Suwarno,Matematika,SCH-026
+TCH-030,Makara Wasita,Ekonomi,SCH-042
+TCH-031,Lasmono Thamrin,Biologi,SCH-014
+TCH-032,"KH. Erik Aryani, S.Pt",Geografi,SCH-035
+TCH-033,Mila Widodo,Bahasa Inggris,SCH-008
+TCH-034,Maida Anggraini,Biologi,SCH-022
+TCH-035,Jane Maryadi,Sejarah,SCH-035
+TCH-036,Siti Handayani,Kimia,SCH-031
+TCH-037,Panca Usamah,Fisika,SCH-028
+TCH-038,Nardi Hakim,Ekonomi,SCH-047
+TCH-039,Ira Nugroho,Ekonomi,SCH-045
+TCH-040,Yuni Iswahyudi,Biologi,SCH-011
+TCH-041,Ir. Anastasia Susanti,Biologi,SCH-038
+TCH-042,"Dt. Caraka Tamba, M.M.",Matematika,SCH-034
+TCH-043,Intan Maulana,Geografi,SCH-032
+TCH-044,KH. Kairav Wibowo,Sejarah,SCH-005
+TCH-045,"Ismail Laksita, S.Psi",Matematika,SCH-035
+TCH-046,"R.M. Lembah Hutapea, S.E.",Ekonomi,SCH-008
+TCH-047,Fitriani Novitasari,Matematika,SCH-035
+TCH-048,Danu Megantara,Biologi,SCH-004
+TCH-049,R.M. Artawan Kurniawan,Bahasa Inggris,SCH-016
+TCH-050,"T. Bakti Wahyudin, S.E.I",Geografi,SCH-033
+TCH-051,Puti Ulva Dongoran,Fisika,SCH-028
+TCH-052,Julia Tarihoran,Biologi,SCH-023
+TCH-053,Abyasa Winarno,Geografi,SCH-035
+TCH-054,Erik Wacana,Ekonomi,SCH-046
+TCH-055,"Darsirah Kusmawati, M.Pd",Ekonomi,SCH-028
+TCH-056,Laras Uwais,Sejarah,SCH-013
+TCH-057,Titin Uyainah,Ekonomi,SCH-040
+TCH-058,Vera Fujiati,Geografi,SCH-029
+TCH-059,Ibun Wibowo,Geografi,SCH-025
+TCH-060,"Wani Gunawan, M.Ak",Sejarah,SCH-043
+TCH-061,Cakrabuana Pranowo,Ekonomi,SCH-035
+TCH-062,"Icha Uyainah, S.Sos",Biologi,SCH-025
+TCH-063,"R. Wage Nurdiyanti, S.E.I",Sejarah,SCH-022
+TCH-064,"R.A. Cinthia Mardhiyah, M.TI.",Fisika,SCH-025
+TCH-065,Paiman Zulkarnain,Kimia,SCH-023
+TCH-066,Arsipatra Winarno,Biologi,SCH-037
+TCH-067,Dalima Lailasari,Ekonomi,SCH-011
+TCH-068,"R. Sari Prakasa, M.M.",Sejarah,SCH-007
+TCH-069,"Dt. Arta Gunawan, S.IP",Ekonomi,SCH-048
+TCH-070,"Putri Suryatmi, M.Pd",Geografi,SCH-040
+TCH-071,Gawati Firmansyah,Geografi,SCH-039
+TCH-072,Ir. Harto Nasyiah,Ekonomi,SCH-023
+TCH-073,Bagya Megantara,Kimia,SCH-042
+TCH-074,"R.A. Jelita Sitompul, M.Ak",Kimia,SCH-009
+TCH-075,Rahmi Marbun,Geografi,SCH-014
+TCH-076,drg. Janet Hassanah,Fisika,SCH-032
+TCH-077,Puti Yance Mulyani,Matematika,SCH-026
+TCH-078,Faizah Ardianto,Biologi,SCH-028
+TCH-079,"Warsa Pratiwi, S.Pd",Kimia,SCH-014
+TCH-080,dr. Jelita Mandasari,Fisika,SCH-021
+TCH-081,Lalita Anggriawan,Fisika,SCH-047
+TCH-082,Lanjar Yulianti,Ekonomi,SCH-047
+TCH-083,Chelsea Jailani,Bahasa Inggris,SCH-014
+TCH-084,Gaduh Putra,Matematika,SCH-014
+TCH-085,Shania Usada,Geografi,SCH-002
+TCH-086,Ratna Widodo,Matematika,SCH-006
+TCH-087,"dr. Zulaikha Rajasa, S.Sos",Kimia,SCH-008
+TCH-088,"Farah Jailani, S.E.",Matematika,SCH-032
+TCH-089,Paiman Mahendra,Kimia,SCH-011
+TCH-090,Kani Dabukke,Sejarah,SCH-020
+TCH-091,dr. Citra Jailani,Biologi,SCH-008
+TCH-092,"Sutan Heryanto Simbolon, M.Farm",Matematika,SCH-024
+TCH-093,Shania Wijayanti,Ekonomi,SCH-024
+TCH-094,Mustofa Utami,Ekonomi,SCH-017
+TCH-095,Anastasia Natsir,Bahasa Inggris,SCH-006
+TCH-096,Puji Zulaika,Geografi,SCH-042
+TCH-097,Safina Nasyiah,Ekonomi,SCH-040
+TCH-098,Jefri Anggriawan,Kimia,SCH-014
+TCH-099,Lanjar Rahayu,Biologi,SCH-048
+TCH-100,drg. Nasrullah Maryati,Sejarah,SCH-022
+TCH-101,Cut Nabila Mandasari,Bahasa Inggris,SCH-032
+TCH-102,Warta Wacana,Ekonomi,SCH-008
+TCH-103,Galih Budiyanto,Matematika,SCH-004
+TCH-104,Dr. Lasmanto Suwarno,Matematika,SCH-026
+TCH-105,Yuliana Kuswandari,Ekonomi,SCH-032
+TCH-106,Darman Salahudin,Sejarah,SCH-016
+TCH-107,Hesti Firgantoro,Matematika,SCH-040
+TCH-108,Puput Palastri,Bahasa Inggris,SCH-017
+TCH-109,"H. Jabal Uwais, M.Ak",Sejarah,SCH-037
+TCH-110,Harimurti Suryatmi,Geografi,SCH-008
+TCH-111,Jail Mansur,Fisika,SCH-025
+TCH-112,Dr. Melinda Gunawan,Bahasa Inggris,SCH-029
+TCH-113,"Hj. Yulia Yuniar, S.H.",Kimia,SCH-034
+TCH-114,"Drs. Darimin Siregar, S.Pd",Geografi,SCH-006
+TCH-115,"Halima Saptono, S.Sos",Ekonomi,SCH-019
+TCH-116,Ega Halim,Fisika,SCH-047
+TCH-117,Nurul Wibisono,Sejarah,SCH-031
+TCH-118,Ophelia Nashiruddin,Geografi,SCH-040
+TCH-119,H. Garang Pratama,Bahasa Inggris,SCH-001
+TCH-120,"Dr. Lalita Laksmiwati, S.E.I",Ekonomi,SCH-048
+TCH-121,Kania Agustina,Fisika,SCH-030
+TCH-122,"Yani Palastri, M.TI.",Fisika,SCH-017
+TCH-123,Zelda Dabukke,Biologi,SCH-021
+TCH-124,Bagus Kurniawan,Matematika,SCH-044
+TCH-125,Putri Prabowo,Ekonomi,SCH-019
+TCH-126,Darmanto Thamrin,Sejarah,SCH-047
+TCH-127,"Bahuwirya Nababan, M.Kom.",Geografi,SCH-038
+TCH-128,Kawaca Narpati,Biologi,SCH-031
+TCH-129,"R. Johan Hutasoit, M.Ak",Geografi,SCH-043
+TCH-130,Zalindra Firmansyah,Bahasa Inggris,SCH-041
+TCH-131,Dr. Dina Wijayanti,Matematika,SCH-018
+TCH-132,"R. Puput Mahendra, S.E.",Fisika,SCH-016
+TCH-133,Anggabaya Sitompul,Ekonomi,SCH-003
+TCH-134,Tami Nugroho,Kimia,SCH-023
+TCH-135,"Silvia Maulana, S.Gz",Bahasa Inggris,SCH-046
+TCH-136,Karja Tamba,Matematika,SCH-039
+TCH-137,Cecep Marbun,Biologi,SCH-026
+TCH-138,"Tgk. Tari Manullang, S.Sos",Geografi,SCH-010
+TCH-139,"Puti Lintang Sinaga, S.Pd",Sejarah,SCH-033
+TCH-140,Rangga Pratama,Biologi,SCH-042
+TCH-141,Drs. Dariati Uwais,Matematika,SCH-043
+TCH-142,Victoria Safitri,Fisika,SCH-010
+TCH-143,Erik Hassanah,Bahasa Inggris,SCH-044
+TCH-144,Yusuf Halim,Sejarah,SCH-015
+TCH-145,"Janet Natsir, S.Farm",Geografi,SCH-039
+TCH-146,Michelle Rahimah,Matematika,SCH-008
+TCH-147,"Eman Tamba, S.Sos",Fisika,SCH-011
+TCH-148,Aisyah Prasetyo,Sejarah,SCH-025
+TCH-149,Oni Rahmawati,Matematika,SCH-008
+TCH-150,dr. Kania Sinaga,Biologi,SCH-006
+TCH-151,R.M. Tedi Firmansyah,Biologi,SCH-004
+TCH-152,"Pranata Pertiwi, S.E.I",Ekonomi,SCH-003
+TCH-153,"Adiarja Padmasari, S.E.I",Geografi,SCH-032
+TCH-154,Nardi Mustofa,Ekonomi,SCH-006
+TCH-155,Dt. Harimurti Yuniar,Fisika,SCH-034
+TCH-156,"Cut Salsabila Sihotang, S.E.",Kimia,SCH-029
+TCH-157,Kambali Mahendra,Ekonomi,SCH-019
+TCH-158,Rachel Marbun,Ekonomi,SCH-027
+TCH-159,"Cut Rahmi Farida, M.Ak",Matematika,SCH-037
+TCH-160,Cakrawala Utami,Fisika,SCH-046
+TCH-161,Sari Simanjuntak,Kimia,SCH-015
+TCH-162,Mursinin Wahyuni,Ekonomi,SCH-013
+TCH-163,"Prayoga Maulana, S.Ked",Kimia,SCH-022
+TCH-164,Irnanto Puspita,Bahasa Inggris,SCH-046
+TCH-165,Talia Permadi,Biologi,SCH-021
+TCH-166,drg. Devi Mandasari,Fisika,SCH-042
+TCH-167,Nasim Firmansyah,Ekonomi,SCH-015
+TCH-168,Dalima Uwais,Matematika,SCH-019
+TCH-169,"H. Adikara Prasetyo, M.Pd",Matematika,SCH-016
+TCH-170,Padma Mardhiyah,Sejarah,SCH-031
+TCH-171,Mustika Wulandari,Kimia,SCH-039
+TCH-172,"Harimurti Haryanto, S.I.Kom",Biologi,SCH-017
+TCH-173,Estiono Widodo,Fisika,SCH-034
+TCH-174,Dr. Ganjaran Laksmiwati,Sejarah,SCH-016
+TCH-175,Praba Haryanti,Bahasa Inggris,SCH-002
+TCH-176,Yoga Anggraini,Matematika,SCH-014
+TCH-177,"Tomi Latupono, M.TI.",Sejarah,SCH-043
+TCH-178,Talia Sudiati,Fisika,SCH-029
+TCH-179,Ellis Hassanah,Kimia,SCH-020
+TCH-180,Nrima Rahayu,Bahasa Inggris,SCH-043
+TCH-181,Farah Mulyani,Ekonomi,SCH-011
+TCH-182,Martaka Aryani,Sejarah,SCH-050
+TCH-183,"Harja Yulianti, M.M.",Matematika,SCH-045
+TCH-184,Rahmi Puspasari,Ekonomi,SCH-027
+TCH-185,Fitriani Nainggolan,Geografi,SCH-023
+TCH-186,Gina Yolanda,Sejarah,SCH-026
+TCH-187,Drs. Salimah Wijaya,Biologi,SCH-022
+TCH-188,"Drs. Malika Andriani, S.Ked",Biologi,SCH-048
+TCH-189,"Puspa Handayani, S.Farm",Kimia,SCH-027
+TCH-190,Karen Wibowo,Geografi,SCH-017
+TCH-191,Azalea Prasasta,Fisika,SCH-010
+TCH-192,Betania Mandala,Kimia,SCH-010
+TCH-193,R.A. Cinthia Melani,Sejarah,SCH-029
+TCH-194,Ismail Sihombing,Biologi,SCH-021
+TCH-195,Mustofa Mandala,Ekonomi,SCH-011
+TCH-196,Lasmanto Prabowo,Ekonomi,SCH-034
+TCH-197,Tgk. Prabowo Dabukke,Ekonomi,SCH-044
+TCH-198,Kairav Safitri,Ekonomi,SCH-005
+TCH-199,"Titi Widiastuti, M.Pd",Sejarah,SCH-026
+TCH-200,Gilang Mahendra,Sejarah,SCH-047

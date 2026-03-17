@@ -1,0 +1,38 @@
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server:24.10
+    container_name: clickhouse_server
+    ports:
+      - "8123:8123" # HTTP interface
+      - "9004:9000" # Native TCP interface
+      - "9009:9009" # HTTP for communication between clusters
+    volumes:
+      - ./data/clickhouse:/var/lib/clickhouse # Persistent data storage
+      - ./logs:/var/log/clickhouse-server # Logs
+      - ./config:/etc/clickhouse-server # Custom configuration files
+    environment:
+      CLICKHOUSE_DB: default  # Default database
+      CLICKHOUSE_USER: default  # Default user
+      CLICKHOUSE_PASSWORD: "default"  # Default password (empty)
+    networks:
+      - superset_default
+
+  mysql:
+    image: mysql:8.0
+    container_name: school_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: school_db
+      MYSQL_USER: school_user
+      MYSQL_PASSWORD: school_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./data/mysql_data:/var/lib/mysql
+    networks:
+      - superset_default
+
+networks:
+  superset_default:
+    external: true

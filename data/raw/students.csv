@@ -1,0 +1,1001 @@
+student_id,name,gender,age,school_id,score
+STD-001,"Ir. Warta Salahudin, M.Ak",Female,15,SCH-030,76
+STD-002,"Tgk. Dian Dongoran, S.Pt",Male,15,SCH-035,45
+STD-003,Irfan Dongoran,Female,15,SCH-020,79
+STD-004,Puspa Sihombing,Female,15,SCH-036,84
+STD-005,Gandi Wibisono,Female,16,SCH-015,42
+STD-006,Puti Farhunnisa Tampubolon,Male,15,SCH-041,63
+STD-007,"drg. Hesti Hidayat, M.Pd",Female,18,SCH-009,46
+STD-008,"Emin Pudjiastuti, M.TI.",Female,18,SCH-003,60
+STD-009,"Budi Haryanti, M.Ak",Female,17,SCH-021,93
+STD-010,"Halima Wahyudin, S.Farm",Male,17,SCH-021,69
+STD-011,"Tgk. Oliva Padmasari, S.Pd",Female,16,SCH-040,83
+STD-012,"Queen Simbolon, S.H.",Male,18,SCH-017,91
+STD-013,"Hari Halimah, S.Pt",Female,15,SCH-006,99
+STD-014,Padma Firmansyah,Female,16,SCH-004,73
+STD-015,Iriana Maryati,Male,16,SCH-033,66
+STD-016,Yulia Najmudin,Female,16,SCH-010,41
+STD-017,dr. Timbul Kuswandari,Female,18,SCH-021,93
+STD-018,Cagak Padmasari,Male,16,SCH-050,71
+STD-019,Carla Sinaga,Male,15,SCH-022,42
+STD-020,Dewi Puspita,Female,18,SCH-018,63
+STD-021,Kawaca Irawan,Male,16,SCH-009,75
+STD-022,Cut Ana Uyainah,Female,15,SCH-027,84
+STD-023,"Farah Yulianti, M.Pd",Male,16,SCH-049,87
+STD-024,Febi Wastuti,Male,17,SCH-040,65
+STD-025,Betania Sitorus,Female,18,SCH-018,97
+STD-026,Kania Simbolon,Male,17,SCH-003,99
+STD-027,Dr. Irnanto Wahyudin,Female,18,SCH-019,65
+STD-028,Suci Puspita,Female,16,SCH-010,85
+STD-029,R.M. Cahya Pradipta,Male,17,SCH-036,72
+STD-030,"R. Kurnia Mahendra, S.Ked",Female,16,SCH-023,53
+STD-031,Najwa Mustofa,Female,16,SCH-020,49
+STD-032,Rudi Dongoran,Male,15,SCH-011,43
+STD-033,Tgk. Taswir Siregar,Female,15,SCH-032,45
+STD-034,Kasiyah Suwarno,Female,17,SCH-025,95
+STD-035,R. Bella Suryono,Female,16,SCH-012,44
+STD-036,Uli Usada,Male,18,SCH-023,82
+STD-037,Restu Nugroho,Male,16,SCH-019,90
+STD-038,Warsita Nainggolan,Male,16,SCH-014,40
+STD-039,"Ida Hutagalung, S.I.Kom",Female,15,SCH-026,45
+STD-040,Ridwan Wulandari,Female,15,SCH-029,73
+STD-041,Genta Sihotang,Female,18,SCH-005,77
+STD-042,Uli Tampubolon,Male,17,SCH-012,100
+STD-043,dr. Jelita Sudiati,Female,18,SCH-037,72
+STD-044,"Lala Hakim, S.T.",Male,17,SCH-030,95
+STD-045,Tania Usada,Female,16,SCH-021,64
+STD-046,Raden Agustina,Male,17,SCH-023,94
+STD-047,Cakrajiya Rahayu,Male,16,SCH-037,75
+STD-048,Victoria Kurniawan,Female,15,SCH-050,98
+STD-049,Tasdik Situmorang,Male,18,SCH-031,43
+STD-050,Dina Nababan,Female,18,SCH-004,72
+STD-051,Amelia Firmansyah,Male,18,SCH-026,41
+STD-052,Maya Lailasari,Male,16,SCH-029,70
+STD-053,"Gambira Saptono, S.Pd",Female,16,SCH-040,50
+STD-054,Dariati Suartini,Female,16,SCH-035,86
+STD-055,Cawisono Hassanah,Male,15,SCH-042,99
+STD-056,R.A. Faizah Mayasari,Female,17,SCH-047,78
+STD-057,"Drs. Uli Andriani, S.Pd",Male,15,SCH-002,42
+STD-058,R.M. Arta Suryatmi,Female,15,SCH-032,86
+STD-059,Ani Maheswara,Male,15,SCH-040,92
+STD-060,Edison Wahyudin,Male,18,SCH-008,84
+STD-061,Kacung Manullang,Female,18,SCH-007,94
+STD-062,Rika Permata,Female,18,SCH-037,98
+STD-063,Dalimin Prayoga,Female,16,SCH-008,82
+STD-064,Bakiman Nasyiah,Male,15,SCH-031,56
+STD-065,Edi Haryanto,Male,18,SCH-044,63
+STD-066,"Faizah Ardianto, M.Ak",Female,16,SCH-028,99
+STD-067,"Cindy Mandala, M.Kom.",Female,17,SCH-012,77
+STD-068,Hj. Salimah Wasita,Male,18,SCH-044,93
+STD-069,Rafid Haryanto,Female,15,SCH-035,94
+STD-070,Jarwa Setiawan,Male,17,SCH-026,86
+STD-071,Darimin Rahimah,Male,18,SCH-002,86
+STD-072,"Eva Marpaung, S.Ked",Female,15,SCH-038,71
+STD-073,Cakrabirawa Damanik,Male,16,SCH-008,41
+STD-074,Intan Tampubolon,Female,16,SCH-042,98
+STD-075,Ir. Zulfa Rahimah,Male,17,SCH-043,91
+STD-076,"Bakijan Hakim, S.IP",Male,15,SCH-043,50
+STD-077,Ismail Saragih,Male,18,SCH-020,53
+STD-078,drg. Lili Mansur,Male,18,SCH-007,79
+STD-079,dr. Shakila Wijayanti,Male,18,SCH-012,97
+STD-080,Dwi Budiman,Male,15,SCH-004,72
+STD-081,Hasna Pertiwi,Female,17,SCH-014,72
+STD-082,"Malika Latupono, S.E.I",Male,15,SCH-045,89
+STD-083,Radit Haryanto,Female,15,SCH-009,83
+STD-084,"T. Gangsar Nurdiyanti, M.TI.",Male,17,SCH-030,61
+STD-085,Ifa Nurdiyanti,Male,15,SCH-023,80
+STD-086,Banawi Waluyo,Female,18,SCH-050,80
+STD-087,Jasmin Latupono,Male,18,SCH-042,58
+STD-088,Jaiman Utami,Female,15,SCH-030,93
+STD-089,Darmana Jailani,Male,15,SCH-035,56
+STD-090,drg. Putri Situmorang,Female,17,SCH-027,88
+STD-091,Wakiman Budiman,Male,18,SCH-040,43
+STD-092,Daru Prasetyo,Female,18,SCH-024,79
+STD-093,"Anom Firmansyah, S.Pt",Male,15,SCH-033,82
+STD-094,Dasa Januar,Female,15,SCH-049,99
+STD-095,"Hesti Irawan, S.Kom",Male,16,SCH-015,53
+STD-096,"Galak Hariyah, S.Kom",Male,15,SCH-035,50
+STD-097,"Jinawi Sirait, M.M.",Female,17,SCH-019,81
+STD-098,Maman Sihombing,Male,17,SCH-024,75
+STD-099,"Usyi Budiman, S.Ked",Female,16,SCH-006,49
+STD-100,Asmuni Utama,Female,15,SCH-029,69
+STD-101,"Oskar Anggriawan, S.Gz",Male,15,SCH-028,85
+STD-102,Gangsar Namaga,Male,17,SCH-008,42
+STD-103,"Yuliana Purnawati, M.Ak",Male,15,SCH-013,87
+STD-104,Yessi Maryadi,Female,17,SCH-030,57
+STD-105,Unjani Usada,Male,15,SCH-007,60
+STD-106,Nurul Saptono,Female,18,SCH-006,55
+STD-107,Malika Hidayanto,Female,16,SCH-042,83
+STD-108,Anggabaya Andriani,Female,17,SCH-033,93
+STD-109,"Salwa Nasyidah, S.Sos",Male,15,SCH-009,62
+STD-110,Salimah Kurniawan,Female,15,SCH-009,72
+STD-111,Johan Handayani,Female,15,SCH-028,46
+STD-112,"Tgk. Estiono Tampubolon, S.Ked",Female,18,SCH-027,85
+STD-113,"Ir. Rini Wibowo, M.Ak",Male,18,SCH-004,95
+STD-114,Kania Sihombing,Male,15,SCH-034,70
+STD-115,Dasa Budiman,Female,18,SCH-030,47
+STD-116,Puti Unjani Waskita,Female,15,SCH-033,62
+STD-117,Hilda Lazuardi,Female,15,SCH-025,41
+STD-118,Wahyu Pradipta,Female,18,SCH-006,62
+STD-119,Eva Saragih,Female,15,SCH-029,45
+STD-120,R. Unjani Sihombing,Female,16,SCH-014,41
+STD-121,Lurhur Hariyah,Male,15,SCH-032,59
+STD-122,Violet Widiastuti,Male,15,SCH-032,77
+STD-123,Kanda Sinaga,Female,17,SCH-045,48
+STD-124,Luis Riyanti,Female,16,SCH-007,46
+STD-125,"Sutan Hartana Saputra, S.Sos",Female,16,SCH-031,94
+STD-126,"Titi Wijaya, S.Farm",Male,16,SCH-012,55
+STD-127,"Dt. Atma Melani, S.Gz",Female,18,SCH-023,55
+STD-128,Darmaji Lailasari,Female,18,SCH-042,73
+STD-129,Kayla Maheswara,Female,17,SCH-047,63
+STD-130,"Dr. Violet Firmansyah, M.Kom.",Female,16,SCH-006,100
+STD-131,"Fathonah Setiawan, S.Gz",Female,16,SCH-007,78
+STD-132,R. Malika Mustofa,Male,16,SCH-017,80
+STD-133,Sidiq Lestari,Female,17,SCH-006,43
+STD-134,Bagya Adriansyah,Male,18,SCH-049,72
+STD-135,"R.M. Raharja Wahyudin, S.H.",Male,17,SCH-023,47
+STD-136,Lega Wasita,Female,15,SCH-012,45
+STD-137,"Tira Pradipta, S.Sos",Male,16,SCH-026,51
+STD-138,Tira Pratama,Female,16,SCH-038,82
+STD-139,"drg. Aditya Wibisono, S.Pd",Male,17,SCH-026,94
+STD-140,Kamila Yolanda,Female,17,SCH-048,41
+STD-141,"Dr. Sadina Januar, S.Pd",Female,15,SCH-034,100
+STD-142,Laila Manullang,Female,15,SCH-043,68
+STD-143,"dr. Pia Uyainah, M.M.",Female,17,SCH-024,61
+STD-144,Karimah Hakim,Female,15,SCH-041,57
+STD-145,"Hj. Mala Padmasari, S.E.",Male,15,SCH-018,85
+STD-146,Puput Yulianti,Male,17,SCH-045,85
+STD-147,Cakrajiya Anggriawan,Female,15,SCH-020,78
+STD-148,"Dr. Emin Wahyuni, S.Sos",Female,15,SCH-046,53
+STD-149,Malik Winarsih,Male,16,SCH-046,75
+STD-150,"Dt. Warta Tampubolon, S.Gz",Female,15,SCH-001,95
+STD-151,"Sutan Hairyanto Mayasari, S.T.",Female,15,SCH-031,69
+STD-152,R.M. Halim Hutasoit,Female,18,SCH-029,70
+STD-153,"R.M. Yosef Prasetyo, M.Ak",Female,15,SCH-036,80
+STD-154,Ir. Nadia Saputra,Female,17,SCH-001,88
+STD-155,Clara Siregar,Male,18,SCH-030,61
+STD-156,Tgk. Sabrina Wasita,Male,15,SCH-028,66
+STD-157,"dr. Yuliana Pertiwi, S.Pd",Male,18,SCH-039,59
+STD-158,Keisha Hariyah,Female,18,SCH-045,62
+STD-159,Dr. Gamblang Rahmawati,Male,15,SCH-022,94
+STD-160,Purwadi Puspita,Male,18,SCH-050,93
+STD-161,Mumpuni Yolanda,Male,16,SCH-022,90
+STD-162,Akarsana Purwanti,Female,18,SCH-016,94
+STD-163,"dr. Irma Uyainah, S.Psi",Female,18,SCH-010,85
+STD-164,Gada Damanik,Male,18,SCH-015,58
+STD-165,Purwadi Usada,Female,15,SCH-006,42
+STD-166,Drs. Dwi Lestari,Male,17,SCH-041,99
+STD-167,Malika Prasetya,Male,18,SCH-040,68
+STD-168,"Ir. Siska Widiastuti, S.I.Kom",Male,15,SCH-008,56
+STD-169,"Tgk. Genta Setiawan, S.Psi",Female,18,SCH-004,45
+STD-170,"Tgk. Hesti Ardianto, M.Kom.",Female,16,SCH-015,67
+STD-171,"Jumadi Sitompul, S.Farm",Female,18,SCH-023,52
+STD-172,Jaga Susanti,Male,18,SCH-018,100
+STD-173,R.A. Shakila Sihombing,Male,17,SCH-025,45
+STD-174,"drg. Raisa Siregar, S.Gz",Female,16,SCH-018,80
+STD-175,drg. Eka Pradipta,Male,16,SCH-006,96
+STD-176,Oliva Narpati,Female,17,SCH-045,42
+STD-177,Mustika Puspasari,Male,16,SCH-046,42
+STD-178,Kamaria Prasetya,Male,16,SCH-024,83
+STD-179,Tira Nuraini,Male,17,SCH-008,90
+STD-180,"Cager Wijayanti, M.M.",Male,18,SCH-019,92
+STD-181,Puti Maria Widiastuti,Male,17,SCH-008,47
+STD-182,Hani Jailani,Male,18,SCH-016,96
+STD-183,Karman Widodo,Male,15,SCH-016,65
+STD-184,Endah Mahendra,Male,16,SCH-002,56
+STD-185,"Upik Salahudin, M.Ak",Female,17,SCH-030,58
+STD-186,Zahra Lailasari,Female,17,SCH-011,79
+STD-187,"Hj. Jamalia Gunarto, S.Pt",Female,17,SCH-026,57
+STD-188,Nova Tarihoran,Male,15,SCH-030,84
+STD-189,Raihan Nasyiah,Male,15,SCH-027,98
+STD-190,Rika Halim,Male,18,SCH-048,94
+STD-191,Nadia Budiman,Male,17,SCH-003,55
+STD-192,Amalia Putra,Male,18,SCH-015,77
+STD-193,Jati Irawan,Male,17,SCH-041,68
+STD-194,Jatmiko Fujiati,Male,17,SCH-050,75
+STD-195,"Cemeti Rajata, S.H.",Female,16,SCH-044,78
+STD-196,"Mustika Firmansyah, M.M.",Female,17,SCH-039,79
+STD-197,Tiara Palastri,Female,16,SCH-018,97
+STD-198,Uda Astuti,Male,16,SCH-028,86
+STD-199,Tgk. Yahya Saptono,Male,15,SCH-032,48
+STD-200,Rini Samosir,Female,15,SCH-035,45
+STD-201,Lutfan Firgantoro,Female,18,SCH-021,52
+STD-202,Cinta Prasasta,Male,17,SCH-007,73
+STD-203,"drg. Nardi Hidayat, M.Ak",Male,16,SCH-024,99
+STD-204,Luhung Siregar,Male,17,SCH-005,68
+STD-205,Martana Hastuti,Female,16,SCH-025,58
+STD-206,Ratna Dabukke,Female,17,SCH-042,81
+STD-207,"drg. Talia Thamrin, M.Ak",Female,16,SCH-005,41
+STD-208,Dr. Darmanto Simanjuntak,Male,15,SCH-009,44
+STD-209,Makuta Situmorang,Male,15,SCH-032,48
+STD-210,KH. Kacung Ardianto,Female,18,SCH-023,72
+STD-211,"Parman Laksmiwati, S.Gz",Female,18,SCH-040,41
+STD-212,Violet Ramadan,Male,18,SCH-027,78
+STD-213,Lasmanto Suwarno,Male,18,SCH-042,53
+STD-214,Ratih Hutasoit,Female,15,SCH-047,99
+STD-215,Ifa Hidayanto,Female,16,SCH-018,54
+STD-216,"Sutan Radit Iswahyudi, S.IP",Female,16,SCH-024,90
+STD-217,Harsaya Yulianti,Male,18,SCH-035,46
+STD-218,Tami Thamrin,Female,16,SCH-026,58
+STD-219,Caket Sirait,Female,18,SCH-006,83
+STD-220,Uchita Andriani,Male,16,SCH-049,68
+STD-221,Vega Sihombing,Male,17,SCH-023,97
+STD-222,Bambang Nashiruddin,Female,15,SCH-030,50
+STD-223,Radit Utama,Male,15,SCH-004,44
+STD-224,"Oni Padmasari, M.Kom.",Male,15,SCH-038,44
+STD-225,"Paulin Putra, S.Ked",Male,17,SCH-043,85
+STD-226,Aisyah Mandasari,Female,17,SCH-018,100
+STD-227,"Dariati Januar, S.Farm",Male,18,SCH-031,92
+STD-228,"Okto Maulana, M.TI.",Male,18,SCH-015,64
+STD-229,Karya Prastuti,Female,15,SCH-014,98
+STD-230,Tira Narpati,Female,15,SCH-005,64
+STD-231,Ami Aryani,Female,18,SCH-009,96
+STD-232,Kartika Pradana,Female,17,SCH-002,82
+STD-233,Mustika Marpaung,Female,15,SCH-007,95
+STD-234,Atmaja Rahayu,Female,16,SCH-038,58
+STD-235,Puti Yunita Mayasari,Male,18,SCH-048,87
+STD-236,Salimah Mustofa,Female,15,SCH-002,82
+STD-237,Eva Pudjiastuti,Male,17,SCH-009,75
+STD-238,Faizah Maulana,Male,15,SCH-019,82
+STD-239,Halima Tarihoran,Female,17,SCH-030,77
+STD-240,Emong Maulana,Male,18,SCH-016,70
+STD-241,drg. Salimah Wijaya,Male,17,SCH-023,54
+STD-242,"Oman Nasyiah, M.M.",Male,18,SCH-015,94
+STD-243,"Ir. Jumadi Rahayu, S.T.",Female,15,SCH-007,75
+STD-244,R.M. Setya Natsir,Male,18,SCH-020,83
+STD-245,Dono Halimah,Female,17,SCH-050,50
+STD-246,Vicky Usada,Female,15,SCH-045,84
+STD-247,"Darijan Maryadi, S.Pt",Male,15,SCH-031,72
+STD-248,Heru Nainggolan,Male,16,SCH-032,99
+STD-249,R. Estiono Wahyudin,Male,18,SCH-029,41
+STD-250,"R. Puspa Nababan, S.Pt",Female,18,SCH-016,95
+STD-251,"Eja Narpati, S.E.",Female,16,SCH-012,92
+STD-252,Cengkir Safitri,Female,15,SCH-025,52
+STD-253,"Dr. Kasusra Rajata, S.H.",Male,16,SCH-045,87
+STD-254,Drs. Xanana Hastuti,Female,18,SCH-026,81
+STD-255,"Dt. Arta Riyanti, S.H.",Female,16,SCH-045,89
+STD-256,Yunita Nasyidah,Female,15,SCH-011,68
+STD-257,Elon Wasita,Female,15,SCH-049,90
+STD-258,Mulyono Wibisono,Male,17,SCH-001,88
+STD-259,Bakiono Siregar,Female,16,SCH-024,51
+STD-260,Cinta Mandasari,Male,17,SCH-019,93
+STD-261,Tira Zulaika,Female,18,SCH-041,92
+STD-262,Fitriani Sirait,Female,16,SCH-029,60
+STD-263,Radit Safitri,Male,15,SCH-019,72
+STD-264,Lukman Gunarto,Female,17,SCH-033,58
+STD-265,Natalia Kusumo,Male,18,SCH-010,90
+STD-266,"Fathonah Napitupulu, S.E.",Female,18,SCH-036,86
+STD-267,Najwa Prasetyo,Male,18,SCH-017,94
+STD-268,Bagas Yuliarti,Male,15,SCH-050,99
+STD-269,"Dr. Padma Simanjuntak, S.Ked",Female,15,SCH-012,81
+STD-270,Latika Pratiwi,Female,15,SCH-022,66
+STD-271,Dt. Kala Hardiansyah,Male,18,SCH-019,90
+STD-272,Cut Lintang Anggraini,Female,16,SCH-001,94
+STD-273,"Talia Laksmiwati, S.T.",Female,18,SCH-024,66
+STD-274,"Bahuwarna Zulaika, S.E.I",Male,18,SCH-004,71
+STD-275,"Rosman Dongoran, S.Gz",Male,17,SCH-009,61
+STD-276,T. Hardana Pangestu,Female,15,SCH-029,94
+STD-277,Yulia Farida,Male,18,SCH-040,90
+STD-278,Slamet Andriani,Female,16,SCH-026,92
+STD-279,Dr. Luhung Simbolon,Female,17,SCH-002,81
+STD-280,"R. Ella Prasetya, M.Ak",Male,15,SCH-015,100
+STD-281,Ellis Thamrin,Male,17,SCH-040,90
+STD-282,R.M. Irfan Simbolon,Male,15,SCH-008,64
+STD-283,Hilda Januar,Female,16,SCH-025,94
+STD-284,Cager Suryatmi,Female,18,SCH-030,91
+STD-285,T. Putu Pradana,Male,16,SCH-049,79
+STD-286,Tantri Rahayu,Female,17,SCH-020,66
+STD-287,Qori Damanik,Female,17,SCH-004,67
+STD-288,"Eka Rajata, S.E.I",Male,17,SCH-005,47
+STD-289,"R.A. Mutia Zulkarnain, S.Farm",Female,18,SCH-002,46
+STD-290,drg. Vanesa Hidayanto,Male,16,SCH-001,87
+STD-291,dr. Bambang Nurdiyanti,Male,18,SCH-002,55
+STD-292,Karen Namaga,Male,15,SCH-009,43
+STD-293,"Drs. Tedi Hutapea, M.M.",Female,16,SCH-028,86
+STD-294,Zalindra Hardiansyah,Female,17,SCH-010,49
+STD-295,"Dt. Harsaya Hutasoit, S.Sos",Female,15,SCH-021,81
+STD-296,Radit Wahyudin,Female,15,SCH-009,60
+STD-297,Najib Setiawan,Male,15,SCH-009,56
+STD-298,Sadina Tamba,Female,15,SCH-008,66
+STD-299,Syahrini Mayasari,Female,16,SCH-035,61
+STD-300,"Umaya Adriansyah, S.Farm",Male,18,SCH-018,54
+STD-301,KH. Dimaz Santoso,Female,17,SCH-025,76
+STD-302,"R.A. Winda Setiawan, S.H.",Male,15,SCH-036,54
+STD-303,Jaswadi Nababan,Female,18,SCH-013,59
+STD-304,Zelaya Maheswara,Female,15,SCH-047,68
+STD-305,KH. Budi Rajasa,Male,17,SCH-050,49
+STD-306,"Ir. Cawuk Gunarto, S.E.I",Male,18,SCH-014,91
+STD-307,Raina Pratiwi,Male,18,SCH-032,93
+STD-308,Dinda Susanti,Female,15,SCH-030,62
+STD-309,"Tgk. Violet Hardiansyah, M.Farm",Male,15,SCH-024,69
+STD-310,Candra Sitompul,Male,18,SCH-049,45
+STD-311,Asman Wibowo,Male,15,SCH-034,65
+STD-312,Sutan Jayadi Anggriawan,Female,17,SCH-031,41
+STD-313,Ami Prayoga,Female,15,SCH-038,57
+STD-314,Dariati Saputra,Female,17,SCH-028,45
+STD-315,Aurora Marpaung,Female,16,SCH-008,88
+STD-316,dr. Lanjar Setiawan,Male,17,SCH-007,40
+STD-317,drg. Ana Wijaya,Female,15,SCH-018,69
+STD-318,Pia Wacana,Female,17,SCH-041,76
+STD-319,"Makara Yuliarti, S.Psi",Male,18,SCH-009,56
+STD-320,Padma Narpati,Male,15,SCH-028,76
+STD-321,"R.M. Margana Sudiati, M.M.",Female,18,SCH-046,69
+STD-322,"Banawi Usamah, S.T.",Female,16,SCH-026,69
+STD-323,Jatmiko Mustofa,Female,18,SCH-021,83
+STD-324,Elvin Mustofa,Male,17,SCH-046,52
+STD-325,"Ir. Anita Maulana, S.H.",Female,18,SCH-046,78
+STD-326,R. Rina Usamah,Male,16,SCH-023,65
+STD-327,"Puti Lalita Najmudin, M.Kom.",Male,16,SCH-020,44
+STD-328,Siska Yuliarti,Female,15,SCH-037,77
+STD-329,H. Darimin Permata,Female,18,SCH-038,40
+STD-330,Taufik Novitasari,Female,16,SCH-039,74
+STD-331,Nyana Hutagalung,Male,18,SCH-014,92
+STD-332,"Cut Patricia Wastuti, M.Farm",Male,16,SCH-018,58
+STD-333,Ira Anggraini,Female,17,SCH-009,55
+STD-334,Timbul Hassanah,Female,18,SCH-021,84
+STD-335,Eli Nababan,Female,18,SCH-004,71
+STD-336,Puti Bella Hassanah,Female,17,SCH-043,65
+STD-337,Ika Laksmiwati,Male,16,SCH-016,70
+STD-338,Cakrajiya Sitompul,Female,18,SCH-004,92
+STD-339,Dalimin Hutasoit,Female,15,SCH-044,41
+STD-340,Tgk. Farhunnisa Yuniar,Male,17,SCH-049,98
+STD-341,Jail Tampubolon,Female,15,SCH-026,56
+STD-342,Dr. Jaka Firgantoro,Female,18,SCH-037,69
+STD-343,Titin Adriansyah,Male,15,SCH-038,70
+STD-344,Dt. Lanjar Sitorus,Male,18,SCH-001,49
+STD-345,Alika Siregar,Male,15,SCH-050,82
+STD-346,Azalea Yolanda,Male,16,SCH-038,62
+STD-347,Agus Tampubolon,Male,15,SCH-042,99
+STD-348,Dt. Asmadi Siregar,Male,18,SCH-021,75
+STD-349,"Zahra Firgantoro, S.Farm",Male,16,SCH-018,85
+STD-350,"Puti Indah Wasita, S.H.",Male,18,SCH-027,93
+STD-351,Hesti Putra,Female,17,SCH-032,74
+STD-352,dr. Vera Prakasa,Male,17,SCH-034,84
+STD-353,Puti Uchita Napitupulu,Male,17,SCH-015,98
+STD-354,Mitra Tampubolon,Female,18,SCH-001,72
+STD-355,"Jasmani Siregar, M.Farm",Male,15,SCH-036,81
+STD-356,"Gamblang Zulkarnain, M.Pd",Male,15,SCH-034,84
+STD-357,Laila Sirait,Male,15,SCH-001,79
+STD-358,"Tasdik Hassanah, S.Gz",Male,18,SCH-003,84
+STD-359,R.A. Titin Jailani,Male,18,SCH-036,78
+STD-360,"Gilang Yuniar, S.T.",Male,17,SCH-012,76
+STD-361,Ade Januar,Female,17,SCH-037,67
+STD-362,Soleh Hasanah,Male,15,SCH-037,56
+STD-363,Kasiyah Oktaviani,Female,18,SCH-047,64
+STD-364,Putri Wacana,Male,15,SCH-022,88
+STD-365,Harjo Firgantoro,Male,18,SCH-014,70
+STD-366,T. Vega Zulaika,Male,18,SCH-026,56
+STD-367,Maman Zulkarnain,Female,17,SCH-044,82
+STD-368,Margana Winarno,Female,16,SCH-035,52
+STD-369,"Cut Hamima Setiawan, S.H.",Female,17,SCH-039,48
+STD-370,"Edison Mardhiyah, S.I.Kom",Male,18,SCH-023,78
+STD-371,Endah Kuswandari,Female,15,SCH-005,56
+STD-372,Puti Kayla Saefullah,Female,17,SCH-020,79
+STD-373,Latika Uyainah,Female,15,SCH-019,57
+STD-374,Rahmi Mangunsong,Female,17,SCH-044,85
+STD-375,"Puti Cornelia Sihombing, S.H.",Male,16,SCH-047,83
+STD-376,"Dimaz Widodo, S.E.I",Male,18,SCH-007,45
+STD-377,"Hj. Humaira Rahmawati, S.IP",Male,17,SCH-014,73
+STD-378,Wahyu Simbolon,Male,15,SCH-028,70
+STD-379,Hasan Dabukke,Male,18,SCH-040,98
+STD-380,Lutfan Habibi,Male,17,SCH-049,98
+STD-381,Irma Nuraini,Female,16,SCH-038,100
+STD-382,"Vivi Rajata, S.H.",Male,17,SCH-038,65
+STD-383,Ellis Dabukke,Female,16,SCH-043,41
+STD-384,"Gangsa Samosir, S.Kom",Male,18,SCH-015,71
+STD-385,Maida Lestari,Male,15,SCH-024,74
+STD-386,"Ana Tarihoran, S.IP",Female,16,SCH-036,46
+STD-387,"Viktor Putra, S.E.",Female,17,SCH-022,68
+STD-388,"Jaeman Uyainah, S.IP",Female,17,SCH-025,57
+STD-389,Cakrajiya Mayasari,Female,15,SCH-012,62
+STD-390,"R.A. Nilam Wahyuni, S.E.I",Female,17,SCH-032,45
+STD-391,Simon Halimah,Female,16,SCH-008,93
+STD-392,"drg. Marsito Riyanti, M.Kom.",Male,18,SCH-005,49
+STD-393,"Empluk Anggriawan, M.TI.",Male,16,SCH-023,95
+STD-394,Faizah Manullang,Male,18,SCH-015,62
+STD-395,Umay Winarno,Male,16,SCH-014,67
+STD-396,Hj. Dalima Damanik,Female,17,SCH-013,64
+STD-397,"Timbul Napitupulu, S.Farm",Male,17,SCH-038,66
+STD-398,"Virman Winarsih, S.Kom",Female,16,SCH-045,42
+STD-399,KH. Liman Prakasa,Female,15,SCH-006,64
+STD-400,Halima Siregar,Male,16,SCH-028,77
+STD-401,Tina Wibisono,Male,17,SCH-010,48
+STD-402,Warji Rahayu,Male,15,SCH-040,51
+STD-403,Galuh Puspita,Female,15,SCH-048,84
+STD-404,Drs. Aris Maulana,Female,15,SCH-023,76
+STD-405,"R.M. Hendra Nainggolan, M.TI.",Male,16,SCH-037,78
+STD-406,"Hj. Yessi Usada, S.E.I",Male,15,SCH-012,57
+STD-407,"Zahra Aryani, S.E.I",Female,17,SCH-008,69
+STD-408,"Gaman Puspita, S.Sos",Female,18,SCH-001,78
+STD-409,Ami Sudiati,Male,15,SCH-029,82
+STD-410,Sutan Taufan Situmorang,Female,17,SCH-048,48
+STD-411,Jarwa Novitasari,Male,15,SCH-007,48
+STD-412,"R. Olivia Irawan, S.Kom",Male,15,SCH-023,41
+STD-413,Mitra Prabowo,Male,15,SCH-009,64
+STD-414,"H. Gada Samosir, M.TI.",Male,16,SCH-041,69
+STD-415,Panca Utami,Female,17,SCH-019,41
+STD-416,Danu Wahyudin,Female,18,SCH-043,51
+STD-417,Parman Wastuti,Male,17,SCH-041,40
+STD-418,Okto Irawan,Female,17,SCH-006,52
+STD-419,Jefri Sirait,Female,17,SCH-037,91
+STD-420,"Tgk. Dewi Maheswara, S.Ked",Male,18,SCH-032,78
+STD-421,Sutan Upik Firgantoro,Male,17,SCH-018,54
+STD-422,Sutan Gamanto Irawan,Male,17,SCH-010,57
+STD-423,Viktor Prasetyo,Female,17,SCH-025,90
+STD-424,Rini Nasyiah,Female,18,SCH-042,88
+STD-425,Ida Novitasari,Male,16,SCH-023,44
+STD-426,"Jail Kurniawan, S.E.",Male,18,SCH-032,59
+STD-427,Ridwan Suryatmi,Male,16,SCH-020,81
+STD-428,Wawan Nashiruddin,Male,16,SCH-035,46
+STD-429,Vivi Agustina,Male,18,SCH-005,87
+STD-430,Yuni Halim,Female,16,SCH-003,67
+STD-431,Karya Wulandari,Male,18,SCH-004,75
+STD-432,Halima Hakim,Male,17,SCH-025,86
+STD-433,"Viman Aryani, M.M.",Male,17,SCH-046,80
+STD-434,Eja Laksmiwati,Female,16,SCH-017,54
+STD-435,Karimah Suwarno,Male,15,SCH-012,93
+STD-436,Siska Utama,Male,16,SCH-014,74
+STD-437,KH. Darimin Hasanah,Male,18,SCH-032,51
+STD-438,Yance Hardiansyah,Male,15,SCH-037,59
+STD-439,H. Cakrabuana Oktaviani,Female,18,SCH-038,86
+STD-440,"Najwa Narpati, S.E.I",Female,18,SCH-038,97
+STD-441,"Hj. Lili Halim, S.E.",Female,17,SCH-032,97
+STD-442,Dariati Thamrin,Female,16,SCH-012,43
+STD-443,Cut Nadine Wibowo,Female,16,SCH-014,82
+STD-444,"Drs. Danuja Simbolon, M.Ak",Male,15,SCH-013,95
+STD-445,Aurora Anggraini,Female,15,SCH-020,93
+STD-446,Darmana Hutapea,Male,15,SCH-050,66
+STD-447,H. Umar Palastri,Male,15,SCH-024,58
+STD-448,"Mitra Haryanti, S.E.",Male,17,SCH-032,65
+STD-449,Candrakanta Hutasoit,Female,16,SCH-049,55
+STD-450,Gilda Natsir,Female,15,SCH-001,81
+STD-451,"Tgk. Ayu Sihombing, S.Ked",Female,17,SCH-028,58
+STD-452,"Drs. Arsipatra Manullang, S.T.",Male,16,SCH-026,90
+STD-453,Adhiarja Hastuti,Male,15,SCH-019,94
+STD-454,Sutan Gilang Kusumo,Female,18,SCH-024,50
+STD-455,Sarah Putra,Female,17,SCH-024,73
+STD-456,Asmianto Gunarto,Male,15,SCH-027,66
+STD-457,Nurul Tampubolon,Male,17,SCH-002,61
+STD-458,"Gatot Permata, S.H.",Male,16,SCH-017,78
+STD-459,"Eman Permadi, S.H.",Female,17,SCH-005,84
+STD-460,Maida Sinaga,Female,17,SCH-035,56
+STD-461,Lalita Tamba,Male,15,SCH-025,79
+STD-462,Abyasa Padmasari,Female,17,SCH-050,99
+STD-463,Taswir Najmudin,Male,16,SCH-049,41
+STD-464,"Dr. Almira Pudjiastuti, M.TI.",Male,17,SCH-047,84
+STD-465,Putri Laksmiwati,Female,16,SCH-026,65
+STD-466,"Unggul Irawan, S.Gz",Female,16,SCH-039,53
+STD-467,Dt. Tedi Prastuti,Male,17,SCH-019,81
+STD-468,Maida Hassanah,Female,17,SCH-046,86
+STD-469,Chelsea Pratama,Male,17,SCH-008,65
+STD-470,R.A. Cornelia Oktaviani,Female,16,SCH-024,43
+STD-471,Genta Samosir,Female,16,SCH-008,76
+STD-472,Diana Andriani,Female,16,SCH-049,48
+STD-473,"Bakiadi Laksmiwati, M.Ak",Female,16,SCH-023,42
+STD-474,Latif Kusumo,Male,18,SCH-012,88
+STD-475,"Humaira Pranowo, S.IP",Female,17,SCH-045,89
+STD-476,"Cut Kezia Suartini, S.IP",Female,15,SCH-007,78
+STD-477,Clara Yuliarti,Male,15,SCH-001,66
+STD-478,"R. Violet Wastuti, S.Sos",Male,16,SCH-033,76
+STD-479,Ulva Winarno,Male,18,SCH-029,91
+STD-480,Yono Firgantoro,Female,18,SCH-048,90
+STD-481,dr. Shakila Najmudin,Female,18,SCH-024,53
+STD-482,"Rudi Maryati, S.Pt",Male,18,SCH-033,69
+STD-483,Gatot Hassanah,Male,15,SCH-009,66
+STD-484,"Kani Januar, M.Ak",Male,16,SCH-001,88
+STD-485,Indra Sitorus,Female,18,SCH-002,65
+STD-486,"Kemba Sitorus, M.Farm",Female,16,SCH-021,97
+STD-487,Hamzah Widiastuti,Female,17,SCH-047,47
+STD-488,Edi Saputra,Male,15,SCH-002,70
+STD-489,drg. Ciaobella Maryati,Male,16,SCH-002,48
+STD-490,Prabowo Pangestu,Male,18,SCH-011,81
+STD-491,Kunthara Mahendra,Female,16,SCH-038,77
+STD-492,Tgk. Kunthara Padmasari,Male,15,SCH-020,78
+STD-493,"Puti Jane Pratiwi, M.Farm",Female,16,SCH-037,78
+STD-494,Kemal Marpaung,Male,16,SCH-030,44
+STD-495,Drs. Jaswadi Kusmawati,Female,18,SCH-041,72
+STD-496,Bakti Salahudin,Female,18,SCH-024,69
+STD-497,"Oskar Ramadan, S.Pd",Male,18,SCH-041,94
+STD-498,Zulaikha Mansur,Female,16,SCH-016,64
+STD-499,drg. Lantar Hariyah,Male,16,SCH-034,95
+STD-500,Dt. Banawi Waluyo,Male,17,SCH-011,45
+STD-501,Teddy Rahayu,Male,17,SCH-048,81
+STD-502,Dt. Caraka Saefullah,Female,15,SCH-044,83
+STD-503,Karimah Nugroho,Female,18,SCH-009,65
+STD-504,Kezia Hastuti,Male,15,SCH-007,89
+STD-505,Cornelia Yuliarti,Male,17,SCH-031,97
+STD-506,Wage Astuti,Female,15,SCH-006,67
+STD-507,"R. Oni Hakim, M.Ak",Male,17,SCH-021,79
+STD-508,Talia Prasasta,Male,18,SCH-027,58
+STD-509,"Kalim Dongoran, M.M.",Female,18,SCH-004,91
+STD-510,Gilda Mangunsong,Male,17,SCH-013,57
+STD-511,Ciaobella Pratama,Male,16,SCH-026,43
+STD-512,Tania Anggriawan,Male,17,SCH-041,49
+STD-513,Prakosa Maryati,Female,18,SCH-002,86
+STD-514,"Tgk. Kasiyah Nababan, M.Farm",Male,15,SCH-026,85
+STD-515,Hj. Hani Usada,Male,18,SCH-029,90
+STD-516,Rangga Pratiwi,Male,18,SCH-044,57
+STD-517,R.M. Banara Yuliarti,Female,17,SCH-029,77
+STD-518,Mulyono Nasyidah,Male,15,SCH-003,59
+STD-519,Pia Suwarno,Male,16,SCH-031,83
+STD-520,R.M. Laksana Simanjuntak,Female,15,SCH-035,58
+STD-521,Queen Mandala,Male,17,SCH-002,75
+STD-522,Irma Hasanah,Female,18,SCH-024,84
+STD-523,Kuncara Lazuardi,Male,15,SCH-015,60
+STD-524,Clara Purnawati,Female,15,SCH-013,75
+STD-525,Aswani Hasanah,Female,18,SCH-018,93
+STD-526,Gawati Halim,Male,16,SCH-043,80
+STD-527,"Carla Permadi, M.Farm",Female,18,SCH-020,92
+STD-528,"Elisa Pratama, S.E.",Female,17,SCH-020,98
+STD-529,Jaga Hidayat,Male,15,SCH-017,63
+STD-530,Anita Rahayu,Female,15,SCH-030,46
+STD-531,"Rahmi Januar, S.T.",Male,18,SCH-030,67
+STD-532,Dr. Alika Winarno,Male,17,SCH-033,84
+STD-533,Febi Winarno,Female,15,SCH-046,56
+STD-534,"Hartana Siregar, S.I.Kom",Male,15,SCH-050,67
+STD-535,Yulia Nugroho,Male,16,SCH-040,90
+STD-536,"Dr. Zulaikha Halimah, M.Pd",Male,16,SCH-045,55
+STD-537,"Ir. Budi Narpati, S.IP",Male,17,SCH-036,44
+STD-538,"T. Galang Nugroho, M.Pd",Male,17,SCH-024,90
+STD-539,T. Xanana Halim,Female,16,SCH-001,79
+STD-540,Indah Maryati,Female,15,SCH-046,47
+STD-541,Yance Suryono,Female,15,SCH-009,63
+STD-542,Cici Megantara,Male,15,SCH-005,82
+STD-543,Silvia Manullang,Male,17,SCH-036,41
+STD-544,"Padma Hardiansyah, S.E.I",Female,16,SCH-002,84
+STD-545,"Puji Sihombing, S.Pd",Female,15,SCH-009,56
+STD-546,Karen Utami,Female,18,SCH-016,91
+STD-547,Puti Ellis Thamrin,Male,18,SCH-022,97
+STD-548,Dr. Galak Suartini,Male,16,SCH-048,90
+STD-549,Mala Sitorus,Male,15,SCH-016,72
+STD-550,Wardaya Pradipta,Female,17,SCH-033,63
+STD-551,R. Galih Mahendra,Male,16,SCH-006,43
+STD-552,Jaiman Winarno,Female,18,SCH-047,98
+STD-553,"Maya Pertiwi, S.Sos",Male,16,SCH-037,86
+STD-554,Pangeran Melani,Male,17,SCH-032,72
+STD-555,"Sutan Raden Prasasta, S.Sos",Female,15,SCH-021,92
+STD-556,"Ir. Kanda Usamah, M.Farm",Male,16,SCH-042,59
+STD-557,Cici Megantara,Male,18,SCH-044,79
+STD-558,"Drs. Zulaikha Anggriawan, S.E.",Female,18,SCH-049,100
+STD-559,Hendri Novitasari,Female,16,SCH-034,49
+STD-560,Gandi Uyainah,Female,17,SCH-012,85
+STD-561,Ir. Asmianto Melani,Male,18,SCH-046,91
+STD-562,Dariati Usada,Female,16,SCH-002,45
+STD-563,Drs. Elisa Prayoga,Female,16,SCH-050,65
+STD-564,dr. Unjani Rahimah,Male,16,SCH-036,75
+STD-565,"Novi Nashiruddin, S.E.I",Male,16,SCH-022,80
+STD-566,"Puti Putri Tampubolon, M.Kom.",Female,17,SCH-030,57
+STD-567,drg. Simon Uyainah,Female,16,SCH-008,73
+STD-568,Kusuma Suartini,Female,18,SCH-001,85
+STD-569,Gada Hastuti,Male,15,SCH-047,94
+STD-570,"Niyaga Simbolon, M.Pd",Female,17,SCH-047,92
+STD-571,Ajeng Laksita,Male,15,SCH-010,90
+STD-572,Luthfi Suryono,Male,18,SCH-039,55
+STD-573,Mala Hutagalung,Female,15,SCH-048,100
+STD-574,Latika Melani,Male,17,SCH-009,72
+STD-575,Najwa Mayasari,Male,18,SCH-047,79
+STD-576,Jarwadi Palastri,Female,15,SCH-046,99
+STD-577,Violet Gunawan,Female,16,SCH-013,47
+STD-578,Hasta Santoso,Male,16,SCH-027,71
+STD-579,Humaira Uwais,Female,17,SCH-045,98
+STD-580,Hj. Sabrina Wastuti,Male,16,SCH-037,40
+STD-581,"dr. Kartika Hardiansyah, S.IP",Female,16,SCH-045,43
+STD-582,Humaira Wasita,Female,18,SCH-016,47
+STD-583,"Dt. Parman Jailani, M.M.",Female,18,SCH-019,97
+STD-584,Raden Wibisono,Male,15,SCH-031,69
+STD-585,Wulan Sihombing,Male,16,SCH-044,79
+STD-586,Ir. Gasti Pradipta,Male,15,SCH-012,76
+STD-587,dr. Ismail Hardiansyah,Male,18,SCH-041,53
+STD-588,"R. Warsa Usamah, S.IP",Male,15,SCH-035,66
+STD-589,"Mala Situmorang, S.Farm",Female,18,SCH-040,94
+STD-590,T. Edward Siregar,Female,18,SCH-023,78
+STD-591,Hj. Ulya Budiman,Female,16,SCH-001,52
+STD-592,"Drs. Kamidin Lazuardi, S.Pt",Male,16,SCH-047,85
+STD-593,Ilyas Narpati,Male,16,SCH-012,91
+STD-594,"Dr. Ira Prasetyo, M.Ak",Female,16,SCH-050,52
+STD-595,Gina Anggriawan,Male,17,SCH-013,93
+STD-596,Almira Mandasari,Female,16,SCH-045,91
+STD-597,"Rusman Marpaung, S.E.",Male,18,SCH-016,77
+STD-598,"Jayeng Puspita, S.E.",Male,17,SCH-023,91
+STD-599,Dimas Mayasari,Female,18,SCH-015,52
+STD-600,Dimaz Salahudin,Male,17,SCH-030,69
+STD-601,dr. Jasmani Jailani,Female,18,SCH-005,89
+STD-602,"Puti Lalita Latupono, S.H.",Female,17,SCH-050,77
+STD-603,H. Nalar Permadi,Male,17,SCH-037,42
+STD-604,Violet Sihombing,Female,16,SCH-002,53
+STD-605,Cinthia Wijayanti,Male,17,SCH-032,47
+STD-606,"Kala Nainggolan, M.M.",Male,15,SCH-021,72
+STD-607,Clara Pradipta,Female,16,SCH-032,72
+STD-608,"Drs. Dina Manullang, M.Kom.",Female,15,SCH-021,50
+STD-609,Tgk. Nasim Ardianto,Female,16,SCH-043,68
+STD-610,Gandewa Nugroho,Male,18,SCH-047,53
+STD-611,Lintang Widodo,Female,16,SCH-012,50
+STD-612,Artawan Setiawan,Male,16,SCH-044,57
+STD-613,Ir. Icha Kurniawan,Female,17,SCH-022,50
+STD-614,"Drs. Bakiono Nainggolan, S.Farm",Female,16,SCH-043,82
+STD-615,Sutan Marwata Hutagalung,Female,15,SCH-002,57
+STD-616,R. Diana Kuswoyo,Female,18,SCH-043,88
+STD-617,H. Irwan Suryono,Male,16,SCH-050,96
+STD-618,Dr. Sabar Sihombing,Male,18,SCH-038,82
+STD-619,Violet Iswahyudi,Male,16,SCH-024,42
+STD-620,"Ir. Gara Pradipta, S.Farm",Male,16,SCH-050,100
+STD-621,drg. Tira Wastuti,Male,18,SCH-034,57
+STD-622,"Bakiman Marpaung, S.Gz",Male,17,SCH-015,62
+STD-623,Bakianto Yuniar,Male,16,SCH-030,60
+STD-624,Puspa Simbolon,Male,18,SCH-045,84
+STD-625,Akarsana Wibowo,Female,17,SCH-025,61
+STD-626,Hasna Nashiruddin,Female,18,SCH-042,71
+STD-627,Jessica Lestari,Male,18,SCH-010,88
+STD-628,Almira Anggriawan,Male,15,SCH-044,87
+STD-629,"Puji Namaga, S.Ked",Male,15,SCH-032,79
+STD-630,Ana Siregar,Male,16,SCH-003,61
+STD-631,"Nugraha Mandala, S.Pd",Male,18,SCH-007,48
+STD-632,"Paiman Susanti, M.Kom.",Female,18,SCH-025,59
+STD-633,"Almira Sihombing, M.TI.",Female,17,SCH-024,80
+STD-634,Nalar Pradipta,Male,16,SCH-016,43
+STD-635,Daryani Rahmawati,Female,17,SCH-019,71
+STD-636,Ika Halim,Female,16,SCH-010,98
+STD-637,"Salimah Mustofa, M.M.",Female,15,SCH-005,41
+STD-638,Nadine Hidayanto,Male,16,SCH-033,50
+STD-639,Tgk. Natalia Aryani,Male,17,SCH-040,100
+STD-640,Vino Pratiwi,Male,16,SCH-020,78
+STD-641,"Samiah Jailani, S.I.Kom",Male,16,SCH-021,78
+STD-642,Ganep Halim,Male,16,SCH-004,71
+STD-643,Artawan Kusumo,Female,18,SCH-049,69
+STD-644,Damu Putra,Female,18,SCH-021,85
+STD-645,Luthfi Prayoga,Male,16,SCH-033,97
+STD-646,"R.M. Yahya Handayani, M.Farm",Female,18,SCH-015,59
+STD-647,"Sutan Nardi Wahyuni, S.H.",Female,18,SCH-047,92
+STD-648,Pangeran Santoso,Male,18,SCH-041,50
+STD-649,"Drs. Jagapati Hastuti, S.Ked",Female,17,SCH-040,96
+STD-650,"Adinata Pradana, S.Gz",Male,16,SCH-013,92
+STD-651,Wira Wibisono,Female,17,SCH-044,96
+STD-652,"Yulia Thamrin, S.Pt",Female,15,SCH-011,77
+STD-653,Gilda Lestari,Female,16,SCH-008,74
+STD-654,Kezia Manullang,Female,18,SCH-038,65
+STD-655,Sutan Ilyas Sinaga,Female,17,SCH-043,95
+STD-656,Prabu Damanik,Male,18,SCH-031,91
+STD-657,Rosman Thamrin,Male,16,SCH-015,78
+STD-658,"Drs. Rafid Manullang, S.Sos",Male,18,SCH-017,98
+STD-659,Cici Maryati,Male,17,SCH-019,43
+STD-660,Elvina Napitupulu,Female,18,SCH-008,66
+STD-661,Novi Laksita,Female,15,SCH-034,42
+STD-662,"Omar Mandasari, S.H.",Male,15,SCH-032,60
+STD-663,Dt. Mahesa Farida,Female,16,SCH-024,67
+STD-664,"drg. Wawan Pradipta, S.Ked",Male,15,SCH-014,99
+STD-665,Darman Susanti,Male,17,SCH-023,57
+STD-666,"R.A. Zaenab Tamba, M.TI.",Male,15,SCH-025,62
+STD-667,Melinda Tampubolon,Male,15,SCH-006,59
+STD-668,"Elisa Maheswara, S.Kom",Female,17,SCH-036,88
+STD-669,Hairyanto Najmudin,Female,18,SCH-026,53
+STD-670,Jumari Riyanti,Female,15,SCH-047,71
+STD-671,"Puti Rika Purwanti, S.I.Kom",Female,18,SCH-027,57
+STD-672,Kezia Sinaga,Male,17,SCH-013,62
+STD-673,"Fathonah Hassanah, S.H.",Male,17,SCH-019,56
+STD-674,"Dipa Situmorang, S.H.",Female,17,SCH-015,99
+STD-675,Lidya Prasasta,Female,17,SCH-013,59
+STD-676,"Olivia Hakim, S.Gz",Female,17,SCH-029,47
+STD-677,Endah Manullang,Female,18,SCH-031,90
+STD-678,Siti Nasyidah,Male,17,SCH-006,87
+STD-679,Drs. Sadina Damanik,Female,16,SCH-038,62
+STD-680,Drs. Edi Maheswara,Male,18,SCH-001,41
+STD-681,Nrima Hidayanto,Male,18,SCH-042,43
+STD-682,Carla Wahyudin,Male,17,SCH-013,79
+STD-683,Heryanto Rajata,Male,15,SCH-025,46
+STD-684,Dr. Viman Hassanah,Male,16,SCH-021,48
+STD-685,Michelle Kurniawan,Female,17,SCH-045,83
+STD-686,Kezia Suartini,Male,17,SCH-039,45
+STD-687,Mahesa Latupono,Female,16,SCH-012,60
+STD-688,"Kajen Pradipta, S.Psi",Female,17,SCH-015,66
+STD-689,Bancar Hutapea,Female,15,SCH-033,83
+STD-690,Ellis Mandala,Male,15,SCH-039,64
+STD-691,Cut Violet Zulaika,Male,18,SCH-028,58
+STD-692,Aisyah Prasetyo,Female,18,SCH-031,92
+STD-693,Patricia Maryadi,Female,16,SCH-022,58
+STD-694,Zaenab Narpati,Male,15,SCH-038,48
+STD-695,"Aswani Pangestu, S.Farm",Male,17,SCH-001,99
+STD-696,Restu Hassanah,Male,16,SCH-044,89
+STD-697,Uchita Suryatmi,Male,18,SCH-036,67
+STD-698,Bella Sitompul,Female,15,SCH-019,78
+STD-699,T. Darmaji Yolanda,Male,16,SCH-005,86
+STD-700,Putri Megantara,Male,15,SCH-010,76
+STD-701,Purwadi Puspasari,Female,15,SCH-021,63
+STD-702,Indah Siregar,Female,17,SCH-027,91
+STD-703,Prayoga Tamba,Male,15,SCH-022,84
+STD-704,Kajen Uyainah,Female,15,SCH-008,92
+STD-705,"Hilda Rahmawati, S.H.",Male,16,SCH-025,71
+STD-706,"Titin Susanti, S.Pd",Male,18,SCH-009,65
+STD-707,T. Kusuma Damanik,Male,15,SCH-037,75
+STD-708,Tgk. Edi Saptono,Female,16,SCH-020,71
+STD-709,Upik Hasanah,Female,16,SCH-022,86
+STD-710,Respati Susanti,Male,16,SCH-040,91
+STD-711,Sakura Hasanah,Male,16,SCH-034,53
+STD-712,Ilyas Dabukke,Female,15,SCH-037,45
+STD-713,Hj. Nadia Lailasari,Male,16,SCH-029,82
+STD-714,Sutan Bakiono Winarsih,Male,18,SCH-012,85
+STD-715,Hj. Wirda Marpaung,Male,17,SCH-006,86
+STD-716,Dr. Laras Aryani,Female,16,SCH-027,54
+STD-717,Dr. Janet Irawan,Male,15,SCH-018,80
+STD-718,"drg. Galiono Waluyo, S.Ked",Male,15,SCH-032,63
+STD-719,"dr. Nadia Pradipta, M.Ak",Female,17,SCH-018,97
+STD-720,"Jayadi Napitupulu, M.TI.",Female,17,SCH-017,72
+STD-721,Vanya Tampubolon,Male,18,SCH-002,44
+STD-722,Agnes Haryanti,Male,15,SCH-018,74
+STD-723,Hj. Amalia Hutagalung,Male,17,SCH-028,88
+STD-724,Darmaji Yuniar,Male,18,SCH-031,62
+STD-725,Irfan Budiman,Female,18,SCH-039,49
+STD-726,Praba Marbun,Female,15,SCH-029,82
+STD-727,Panji Situmorang,Male,16,SCH-028,81
+STD-728,Silvia Hassanah,Female,17,SCH-028,79
+STD-729,Sarah Prasetya,Female,16,SCH-008,80
+STD-730,Dr. Mumpuni Gunarto,Female,17,SCH-031,61
+STD-731,Teddy Siregar,Female,15,SCH-024,93
+STD-732,Irma Widiastuti,Female,17,SCH-043,77
+STD-733,Reza Saptono,Female,15,SCH-005,64
+STD-734,Michelle Hutasoit,Male,15,SCH-011,69
+STD-735,R. Chelsea Prakasa,Male,16,SCH-005,84
+STD-736,Garda Mardhiyah,Male,15,SCH-024,60
+STD-737,T. Abyasa Suryono,Female,15,SCH-050,85
+STD-738,Hafshah Irawan,Male,16,SCH-038,98
+STD-739,Virman Saptono,Male,18,SCH-011,78
+STD-740,Malika Usada,Male,18,SCH-046,89
+STD-741,"Keisha Nashiruddin, S.Farm",Female,16,SCH-010,67
+STD-742,Novi Riyanti,Male,17,SCH-012,77
+STD-743,Okta Riyanti,Male,15,SCH-033,91
+STD-744,Eli Kusmawati,Male,16,SCH-038,45
+STD-745,"drg. Septi Novitasari, S.E.I",Female,17,SCH-017,83
+STD-746,Warta Mangunsong,Male,17,SCH-020,43
+STD-747,Enteng Prakasa,Male,16,SCH-024,56
+STD-748,"Raden Haryanto, M.Kom.",Male,18,SCH-021,75
+STD-749,Tasnim Puspasari,Female,18,SCH-017,45
+STD-750,Kemal Widiastuti,Male,16,SCH-026,48
+STD-751,"Kacung Hutapea, M.Kom.",Female,17,SCH-012,77
+STD-752,"R.M. Imam Wacana, M.Farm",Female,18,SCH-007,54
+STD-753,Violet Yolanda,Female,18,SCH-005,63
+STD-754,"Dr. Ina Wijayanti, S.Psi",Male,15,SCH-026,70
+STD-755,"Cut Cornelia Zulkarnain, S.Gz",Male,16,SCH-034,92
+STD-756,Jaiman Yolanda,Male,17,SCH-018,43
+STD-757,Ivan Suartini,Male,18,SCH-015,89
+STD-758,Farah Nugroho,Female,18,SCH-034,73
+STD-759,Jono Hidayat,Female,16,SCH-003,93
+STD-760,Rika Mandala,Male,16,SCH-050,54
+STD-761,"Drs. Zulaikha Kusumo, S.IP",Female,18,SCH-024,65
+STD-762,T. Opung Hutapea,Male,18,SCH-017,98
+STD-763,Sakura Sitorus,Female,15,SCH-034,76
+STD-764,Irfan Nugroho,Female,18,SCH-041,56
+STD-765,Cinthia Wacana,Male,15,SCH-003,60
+STD-766,"drg. Rizki Hassanah, M.Ak",Male,17,SCH-033,65
+STD-767,Ifa Utama,Male,18,SCH-022,46
+STD-768,Pia Iswahyudi,Male,16,SCH-028,73
+STD-769,Sutan Karsana Simanjuntak,Male,17,SCH-033,49
+STD-770,Jaka Padmasari,Female,15,SCH-005,82
+STD-771,drg. Ayu Hutapea,Male,16,SCH-014,97
+STD-772,Tirtayasa Kuswoyo,Female,17,SCH-045,83
+STD-773,Kayla Usada,Female,17,SCH-028,86
+STD-774,Maya Ardianto,Female,16,SCH-029,48
+STD-775,Ella Mardhiyah,Female,16,SCH-026,76
+STD-776,Cinta Irawan,Female,16,SCH-007,54
+STD-777,Ade Susanti,Male,16,SCH-038,55
+STD-778,Kezia Tamba,Female,16,SCH-033,84
+STD-779,Ami Safitri,Male,17,SCH-009,94
+STD-780,Jelita Wibowo,Female,17,SCH-042,57
+STD-781,"Intan Dabukke, S.Gz",Female,18,SCH-042,85
+STD-782,Kamila Ramadan,Female,18,SCH-040,63
+STD-783,"Yance Habibi, M.Farm",Female,16,SCH-023,73
+STD-784,Darmanto Simanjuntak,Male,15,SCH-022,88
+STD-785,"Almira Wacana, S.H.",Female,18,SCH-036,47
+STD-786,"Raditya Budiman, S.H.",Male,15,SCH-026,81
+STD-787,Danu Putra,Female,17,SCH-034,96
+STD-788,"R.M. Ega Dabukke, S.E.I",Male,17,SCH-020,80
+STD-789,Harsanto Lestari,Male,15,SCH-027,54
+STD-790,Kani Tampubolon,Female,18,SCH-011,68
+STD-791,KH. Bancar Saptono,Male,17,SCH-011,95
+STD-792,R.M. Waluyo Riyanti,Male,18,SCH-041,58
+STD-793,Gasti Narpati,Male,16,SCH-041,64
+STD-794,"Karen Adriansyah, M.Kom.",Male,16,SCH-006,66
+STD-795,Prabowo Padmasari,Male,18,SCH-028,58
+STD-796,Cemeti Mulyani,Male,18,SCH-013,88
+STD-797,Cornelia Januar,Female,18,SCH-022,82
+STD-798,"R.A. Michelle Hidayanto, S.Pt",Male,16,SCH-027,82
+STD-799,"T. Galur Wahyuni, S.Sos",Male,15,SCH-049,72
+STD-800,Edison Waluyo,Male,17,SCH-038,47
+STD-801,Sutan Candra Rajasa,Male,15,SCH-007,74
+STD-802,Mutia Irawan,Female,18,SCH-038,67
+STD-803,Julia Suryatmi,Female,15,SCH-016,69
+STD-804,Hendri Uyainah,Female,16,SCH-042,93
+STD-805,Hani Pratama,Female,17,SCH-029,90
+STD-806,"Narji Ardianto, S.Farm",Female,15,SCH-042,95
+STD-807,R. Diana Hakim,Male,17,SCH-036,41
+STD-808,Nilam Tamba,Female,18,SCH-034,59
+STD-809,Vinsen Tampubolon,Male,18,SCH-049,59
+STD-810,Oskar Nuraini,Male,18,SCH-049,44
+STD-811,Nadine Wahyuni,Male,17,SCH-032,49
+STD-812,"Patricia Nashiruddin, S.Sos",Female,16,SCH-003,50
+STD-813,Dasa Astuti,Female,17,SCH-005,43
+STD-814,"dr. Ajimat Narpati, S.Pt",Female,16,SCH-034,86
+STD-815,"Amelia Tampubolon, M.Kom.",Male,17,SCH-040,82
+STD-816,Asmianto Narpati,Male,17,SCH-006,98
+STD-817,Cornelia Lazuardi,Male,17,SCH-014,86
+STD-818,Hafshah Hutasoit,Male,18,SCH-002,68
+STD-819,Ozy Laksita,Male,17,SCH-009,93
+STD-820,"dr. Eko Mayasari, M.Kom.",Male,17,SCH-031,78
+STD-821,Ulya Sirait,Male,15,SCH-028,72
+STD-822,Rahman Marbun,Female,17,SCH-015,52
+STD-823,"R. Daliman Kusmawati, S.T.",Male,17,SCH-048,44
+STD-824,Rahmi Adriansyah,Male,17,SCH-020,54
+STD-825,"Cakrabuana Situmorang, M.Ak",Male,17,SCH-005,58
+STD-826,"Laila Mangunsong, S.Farm",Female,15,SCH-036,50
+STD-827,Puti Iriana Nashiruddin,Female,17,SCH-039,63
+STD-828,Harsanto Mansur,Male,18,SCH-012,75
+STD-829,Cut Salimah Adriansyah,Male,15,SCH-005,93
+STD-830,Tgk. Ratna Hasanah,Female,18,SCH-014,89
+STD-831,Kajen Mardhiyah,Female,17,SCH-013,60
+STD-832,Sabrina Gunarto,Female,16,SCH-004,75
+STD-833,Victoria Lazuardi,Male,17,SCH-032,76
+STD-834,Kuncara Padmasari,Male,17,SCH-009,47
+STD-835,Jaka Usamah,Male,17,SCH-045,82
+STD-836,"Drs. Jessica Winarsih, S.Psi",Male,16,SCH-025,90
+STD-837,"Jaeman Wahyudin, S.Sos",Female,17,SCH-047,71
+STD-838,Caket Adriansyah,Female,16,SCH-021,50
+STD-839,Praba Padmasari,Female,18,SCH-009,61
+STD-840,"dr. Martana Jailani, S.Sos",Male,18,SCH-019,45
+STD-841,"Kani Wacana, S.E.I",Female,15,SCH-045,82
+STD-842,Drs. Pia Hakim,Male,16,SCH-042,77
+STD-843,Citra Wibisono,Female,15,SCH-014,100
+STD-844,Ajimin Tamba,Male,15,SCH-046,44
+STD-845,T. Viman Permadi,Female,17,SCH-039,92
+STD-846,Virman Mandasari,Female,15,SCH-040,55
+STD-847,"H. Prabu Zulkarnain, S.E.",Female,17,SCH-021,82
+STD-848,Zizi Lazuardi,Female,17,SCH-043,95
+STD-849,Eka Rahmawati,Male,18,SCH-025,91
+STD-850,"Drs. Ida Uwais, S.Farm",Female,17,SCH-034,81
+STD-851,Panji Fujiati,Female,15,SCH-012,92
+STD-852,"Yance Nasyidah, M.M.",Male,17,SCH-012,79
+STD-853,Wulan Mulyani,Female,17,SCH-022,61
+STD-854,Limar Maryati,Male,16,SCH-013,76
+STD-855,Gading Thamrin,Male,18,SCH-049,94
+STD-856,"Nova Mayasari, S.Gz",Male,18,SCH-036,96
+STD-857,Siti Wibisono,Male,18,SCH-002,47
+STD-858,Paiman Lestari,Female,18,SCH-022,92
+STD-859,T. Harjo Santoso,Male,15,SCH-031,45
+STD-860,"Bakidin Pradipta, M.Ak",Female,16,SCH-049,90
+STD-861,"Drs. Harsana Prakasa, M.M.",Male,18,SCH-036,61
+STD-862,Salwa Maulana,Male,16,SCH-033,56
+STD-863,Zahra Yolanda,Male,18,SCH-038,59
+STD-864,"R.A. Ratna Utami, M.Kom.",Male,17,SCH-032,61
+STD-865,"Ir. Siti Mandala, S.E.I",Female,17,SCH-042,47
+STD-866,Drs. Patricia Zulkarnain,Male,15,SCH-028,56
+STD-867,"Surya Maryadi, S.Farm",Male,18,SCH-035,45
+STD-868,Tami Habibi,Male,16,SCH-020,66
+STD-869,Marwata Gunarto,Female,17,SCH-013,58
+STD-870,Najwa Kurniawan,Male,18,SCH-018,52
+STD-871,"dr. Rachel Santoso, S.T.",Female,18,SCH-038,96
+STD-872,"Julia Samosir, S.E.",Male,17,SCH-004,64
+STD-873,"Dt. Bakiman Hariyah, S.I.Kom",Female,16,SCH-032,66
+STD-874,"KH. Luis Permata, S.I.Kom",Male,16,SCH-046,71
+STD-875,Bakijan Nasyidah,Female,16,SCH-035,49
+STD-876,Hj. Ida Hidayat,Female,17,SCH-042,54
+STD-877,Winda Salahudin,Female,17,SCH-021,55
+STD-878,Ellis Hutagalung,Female,17,SCH-024,97
+STD-879,dr. Mala Nashiruddin,Female,15,SCH-018,88
+STD-880,Emong Widodo,Male,16,SCH-050,81
+STD-881,Kunthara Wibowo,Female,16,SCH-016,79
+STD-882,Vivi Maulana,Male,16,SCH-004,64
+STD-883,Ir. Elisa Mangunsong,Male,17,SCH-046,87
+STD-884,Jamalia Rahayu,Female,15,SCH-049,83
+STD-885,"Irnanto Hutagalung, S.Kom",Male,15,SCH-018,58
+STD-886,Teguh Prabowo,Female,18,SCH-046,78
+STD-887,"Hj. Hamima Sirait, S.H.",Male,15,SCH-050,81
+STD-888,Zizi Anggraini,Male,16,SCH-026,65
+STD-889,Ira Saptono,Male,17,SCH-043,93
+STD-890,Jessica Mansur,Male,15,SCH-033,82
+STD-891,"Cut Puji Natsir, S.H.",Female,17,SCH-001,50
+STD-892,Luwes Suwarno,Male,18,SCH-037,42
+STD-893,Elvin Kuswoyo,Male,18,SCH-017,56
+STD-894,Jatmiko Rajasa,Male,18,SCH-038,100
+STD-895,"dr. Tedi Lestari, S.Psi",Female,18,SCH-012,45
+STD-896,Margana Gunawan,Female,16,SCH-043,73
+STD-897,Lala Tampubolon,Female,16,SCH-032,53
+STD-898,Heru Sitompul,Female,18,SCH-006,76
+STD-899,Puti Sadina Mardhiyah,Female,18,SCH-046,65
+STD-900,Aurora Prasetyo,Male,17,SCH-005,80
+STD-901,Timbul Tampubolon,Male,18,SCH-001,92
+STD-902,Lala Saptono,Male,16,SCH-025,73
+STD-903,Eka Kuswandari,Female,18,SCH-046,93
+STD-904,"H. Endra Wijayanti, S.IP",Female,16,SCH-017,54
+STD-905,Cornelia Situmorang,Female,17,SCH-044,92
+STD-906,Cecep Putra,Male,18,SCH-031,98
+STD-907,Bakidin Pangestu,Female,17,SCH-011,78
+STD-908,Satya Sihombing,Female,18,SCH-039,68
+STD-909,Kani Tarihoran,Male,17,SCH-034,100
+STD-910,Rizki Mustofa,Female,16,SCH-018,68
+STD-911,H. Ajiman Hartati,Male,15,SCH-004,53
+STD-912,Ir. Pangeran Mansur,Male,15,SCH-009,71
+STD-913,Indra Hutapea,Male,18,SCH-004,51
+STD-914,"Ridwan Lazuardi, M.Farm",Male,18,SCH-039,72
+STD-915,Sutan Muhammad Riyanti,Male,18,SCH-043,100
+STD-916,Saadat Megantara,Male,17,SCH-015,77
+STD-917,Luwes Hidayanto,Female,17,SCH-022,81
+STD-918,Ir. Diah Saefullah,Female,17,SCH-017,80
+STD-919,"Maya Winarno, M.TI.",Male,16,SCH-043,86
+STD-920,Yani Winarno,Male,16,SCH-036,99
+STD-921,Intan Halimah,Male,16,SCH-028,52
+STD-922,"Drs. Marsudi Hidayat, S.I.Kom",Male,18,SCH-038,47
+STD-923,Kani Hutapea,Female,15,SCH-021,48
+STD-924,Siska Yolanda,Male,15,SCH-035,79
+STD-925,Himawan Sihotang,Male,16,SCH-014,46
+STD-926,Chelsea Hutagalung,Female,15,SCH-041,86
+STD-927,Dalimin Aryani,Female,18,SCH-031,86
+STD-928,Janet Salahudin,Male,16,SCH-023,76
+STD-929,Among Nainggolan,Female,16,SCH-040,64
+STD-930,Hasan Ramadan,Female,15,SCH-009,44
+STD-931,Tania Hariyah,Male,17,SCH-008,43
+STD-932,Siska Prakasa,Male,15,SCH-034,72
+STD-933,"Hj. Septi Farida, S.Kom",Male,16,SCH-019,46
+STD-934,"Mustofa Mangunsong, S.T.",Female,15,SCH-020,86
+STD-935,dr. Karsana Fujiati,Male,16,SCH-031,97
+STD-936,R. Carla Gunarto,Male,17,SCH-022,73
+STD-937,Ganep Farida,Female,16,SCH-007,42
+STD-938,Shania Salahudin,Female,17,SCH-048,46
+STD-939,Maya Ardianto,Male,15,SCH-024,80
+STD-940,"drg. Restu Manullang, M.Pd",Female,18,SCH-019,50
+STD-941,Uchita Saputra,Female,18,SCH-043,67
+STD-942,Kemal Permata,Female,16,SCH-034,77
+STD-943,"Widya Iswahyudi, M.M.",Male,17,SCH-024,43
+STD-944,"Bakda Nugroho, S.H.",Female,15,SCH-014,52
+STD-945,Ikhsan Usamah,Male,17,SCH-026,88
+STD-946,Bagas Pradipta,Female,17,SCH-033,96
+STD-947,Imam Yuliarti,Female,15,SCH-041,79
+STD-948,Irfan Wibisono,Male,15,SCH-003,41
+STD-949,Clara Suwarno,Female,15,SCH-012,71
+STD-950,Qori Laksita,Female,16,SCH-035,95
+STD-951,Dr. Embuh Kusmawati,Male,18,SCH-003,40
+STD-952,Drs. Radika Pertiwi,Male,17,SCH-045,54
+STD-953,Yunita Siregar,Male,16,SCH-007,87
+STD-954,Winda Siregar,Male,18,SCH-049,46
+STD-955,drg. Irwan Haryanto,Female,17,SCH-006,83
+STD-956,Bakijan Kurniawan,Female,18,SCH-011,99
+STD-957,Kayla Sitorus,Female,17,SCH-042,53
+STD-958,Siti Susanti,Male,16,SCH-034,52
+STD-959,dr. Vinsen Manullang,Female,16,SCH-027,43
+STD-960,Umaya Salahudin,Male,17,SCH-040,80
+STD-961,Saadat Susanti,Male,16,SCH-017,50
+STD-962,"Salwa Wahyudin, M.Farm",Male,18,SCH-015,55
+STD-963,"Mahesa Widodo, S.IP",Female,16,SCH-015,42
+STD-964,Prayogo Usada,Male,18,SCH-021,91
+STD-965,Ir. Luwes Lestari,Female,17,SCH-011,52
+STD-966,"Karsana Utama, S.Sos",Male,17,SCH-030,52
+STD-967,"Tgk. Gatra Suryono, S.Gz",Female,17,SCH-001,62
+STD-968,Puti Ratih Uyainah,Male,16,SCH-009,47
+STD-969,"Dt. Tugiman Ardianto, M.Kom.",Male,17,SCH-038,89
+STD-970,Okto Saptono,Male,15,SCH-017,48
+STD-971,Ghaliyati Purnawati,Male,18,SCH-002,64
+STD-972,Yuliana Maheswara,Female,16,SCH-049,65
+STD-973,"Cut Kezia Thamrin, S.Pd",Female,17,SCH-047,92
+STD-974,drg. Kenari Tampubolon,Male,18,SCH-042,87
+STD-975,"Dr. Vicky Siregar, M.Farm",Female,15,SCH-026,65
+STD-976,"Bakidin Hassanah, S.T.",Female,15,SCH-032,66
+STD-977,Zulfa Sihombing,Female,18,SCH-022,64
+STD-978,"Mila Pratiwi, S.Gz",Male,15,SCH-022,60
+STD-979,Maimunah Novitasari,Male,17,SCH-008,52
+STD-980,Artanto Ramadan,Female,18,SCH-040,73
+STD-981,Rahmat Hutasoit,Female,17,SCH-001,49
+STD-982,Hardana Prakasa,Male,18,SCH-024,59
+STD-983,Malika Kusumo,Female,16,SCH-013,86
+STD-984,Wani Prasasta,Male,17,SCH-014,56
+STD-985,Ian Kuswandari,Male,17,SCH-016,63
+STD-986,"Puti Vera Mangunsong, M.Farm",Male,16,SCH-006,65
+STD-987,Nova Yulianti,Male,18,SCH-004,89
+STD-988,Drs. Gada Hastuti,Male,15,SCH-021,81
+STD-989,Jasmin Utama,Male,18,SCH-028,46
+STD-990,R.A. Amalia Suryono,Male,18,SCH-031,76
+STD-991,Radika Budiyanto,Male,16,SCH-036,94
+STD-992,Tgk. Gaiman Habibi,Male,16,SCH-013,83
+STD-993,"R. Maya Saputra, S.Psi",Male,16,SCH-039,40
+STD-994,Rina Sinaga,Male,18,SCH-024,55
+STD-995,Daruna Putra,Female,15,SCH-036,76
+STD-996,"Drs. Sari Mahendra, S.E.",Female,17,SCH-008,100
+STD-997,Hj. Tina Rahimah,Male,18,SCH-046,52
+STD-998,Unjani Rajasa,Female,18,SCH-024,60
+STD-999,"Ir. Ega Novitasari, M.Pd",Female,16,SCH-001,99
+STD-1000,Cut Vanesa Puspita,Female,15,SCH-023,45
