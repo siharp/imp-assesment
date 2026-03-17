@@ -18,12 +18,12 @@ def extract_data(engine, query):
 # -------------------
 def transform(data):
     print("🔄 Transforming data...")
-
+    # drop duplicated
     data = data.drop_duplicates()
-
-    # optional cleaning
+    # handling missing value
     data = data.dropna()
-
+    # handling invalid value
+    data = data[(data["score"] >= 0) & (data["score"] <= 100)]
     print(f"✅ Transformed {len(data)} rows")
     return data
 

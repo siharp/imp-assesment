@@ -47,6 +47,10 @@ school-data-pipeline
 │   ├── simulate_problem.py
 │   ├── etl_pipeline.py
 │
+├── scripts/
+│   ├── create-table.sql
+│   ├── sql-analysis.sql
+│
 ├── docker/
 │   └── docker-compose.yml
 │
@@ -61,6 +65,7 @@ school-data-pipeline
 ## ⚙️ Tech Stack
 
 * **Python** (Pandas, Faker)
+* **SQL** 
 * **MySQL** (OLTP database)
 * **ClickHouse** (OLAP database)
 * **Apache Superset** (Business Intelligence dashboard)
@@ -73,8 +78,8 @@ school-data-pipeline
 Generated dataset includes:
 
 * **Schools** (50 records)
-* **Teachers** (~200 records)
-* **Students** (~1000 records)
+* **Teachers** (200 records)
+* **Students** (1000 records)
 
 
 ---
